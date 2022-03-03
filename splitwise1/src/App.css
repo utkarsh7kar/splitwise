@@ -1,0 +1,34 @@
+
+.App {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 980px;
+  height: 100%;
+}
+
+.header-container{
+  width: 100%;
+  /* height: 10%; */
+  background: rgb(4, 77, 80);
+}
+
+.container{
+  display: flex;
+  justify-content: space-around;
+  /* align-items: center; */
+  width: 100%;
+  height: 90%;
+  /* flex-wrap: wrap; */
+  /* flex-direction: column; */
+  background-color: #eaeaea;
+}
+
+
+.txn-container{
+  /* background-color: #eaeaea; */
+  width: 50%;
+}
+
+.act-container{
+  width: 40%;
+}

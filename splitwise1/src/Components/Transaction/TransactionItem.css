@@ -1,0 +1,22 @@
+.txn-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem;
+    margin: 1rem 0;
+    border-radius: 1.5rem;
+    background-color: rgb(4, 77, 80);
+    color: #fff;
+}
+.txn-item h2{
+    font-size: 1rem;
+    margin: 0 1rem;
+}
+.txn-item__price{
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: #a369ab;
+    border: 1px solid white;
+    padding: 0.5rem;
+    border-radius: 12px;
+}

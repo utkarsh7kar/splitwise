@@ -1,0 +1,12 @@
+.button ,.addtxnbutton{
+    color: white;
+    background: #a369ab;
+    border-radius: 0.5rem;
+    margin: 2%;
+    font-size: 1rem;
+    
+}
+.addtxnbutton{
+    margin: 0;
+    text-align: right;
+}

@@ -1,0 +1,13 @@
+.inputline{
+    outline: none;
+    margin: 1rem;
+    
+}
+.inputline{
+    font: inherit;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 20rem;
+    max-width: 100%;
+}

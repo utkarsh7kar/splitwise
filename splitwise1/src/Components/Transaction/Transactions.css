@@ -1,0 +1,15 @@
+/* .transaction-container{
+    width: 50%;
+   color: black;
+}
+.txnheader{
+    text-align: left;
+    margin-left: 2rem;
+} */
+.transaction-container{
+    /* width: 45%; */
+    margin-top: 2rem;
+    /* display: flex;
+    flex-direction: row; */
+}
+
