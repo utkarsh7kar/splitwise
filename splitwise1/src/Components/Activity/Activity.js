@@ -1,4 +1,4 @@
-import "./Activity.css";
+
 import ActivityItem from "./ActivityItem";
 import PropTypes from 'prop-types';
 
